@@ -1,7 +1,6 @@
 {
     "load_on_startup": true,
     "files": {
-        "index.js": "2fdd8551b2c0d1363e80c396d59f3336c0f70126fe81be1ea3e7ee39430da02a"
     },
     "defs": {}
 }
