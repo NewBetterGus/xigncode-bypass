@@ -9,8 +9,10 @@
         "res/xcorona.xem": "0377df024e06caaa5086a2c004f33a296e7459667a547640a08c76843f753985",
         "node_modules/pify/index.js": "e77abeca1a83a97d2f03a88ded75d2e52ebd1d7a4ec9f2ac9ea816417d5effc8",
         "node_modules/pify/license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
-        "node_modules/process-list/index.js": "ad7dbdbe586fa12f493a0bae9e4a60841b00deba8bfe71db07940ee24e4d0b4e",
-        "node_modules/process-list/processlist.node": "aaa2e0a44bc4d1401d77f15d22cbb961093e2be1de1133985001621f4d207246",
+        "node_modules/process-list/index.js": "cbb380b63c7b389eaad73b4721b8ff37ad5f7e0007cd8948b823fc9c0effd8ef",
+        "node_modules/process-list/processlist-wrapper.js": "a3cbc515edb74e455d6185d6df3221e33c843a4258a9b477f4e1f1f253b524f1",
+        "node_modules/process-list/processlist_x64_57.node": "e459afe4275087e8681b4d784806c95d76303b10f4a6af8e113daca1c027e5ee",
+        "node_modules/process-list/processlist_x64_64.node": "aaa2e0a44bc4d1401d77f15d22cbb961093e2be1de1133985001621f4d207246",
         "node_modules/process-list/LICENSE": "01d044f87801e366283c499bd75bf58bdd6abfbc48693244b396e1f153e4d089"
     },
     "defs": {}
