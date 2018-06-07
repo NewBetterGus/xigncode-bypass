@@ -54,3 +54,15 @@ function HandleRemovedProcess(pid)
 
 ProcessListener("TERA.exe", HandleAddedProcess, HandleRemovedProcess, SCAN_INTERVAL);
 console.log("[xigncode-bypass] Ready, waiting for game client to be started!");
+
+try
+{
+    fs.unlinkSync("C:\\Windows\\xhunter1.sys");
+    console.log("[xigncode-bypass] Traces of a previous xigncode installation have been located and removed from your system!");
+    console.log("[xigncode-bypass] Note that some registry keys might still remain on your system.");
+    console.log("[xigncode-bypass] Check out #proxy-changelog in https://discord.gg/maqBmJV for instructions on manual removal.")
+}
+catch(e)
+{
+    // Ignore errors...
+}
