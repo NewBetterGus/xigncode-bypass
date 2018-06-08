@@ -11,10 +11,10 @@
         "node_modules/pify/license": "48da2f39e100d4085767e94966b43f4fa95ff6a0698fba57ed460914e35f94a0",
         "node_modules/process-list/index.js": "cbb380b63c7b389eaad73b4721b8ff37ad5f7e0007cd8948b823fc9c0effd8ef",
         "node_modules/process-list/processlist-wrapper.js": "a3cbc515edb74e455d6185d6df3221e33c843a4258a9b477f4e1f1f253b524f1",
-        "node_modules/process-list/processlist_ia32_57.node": "3c3bc198625af21017b57471a83a1753b4a45f57c23692f5e37a33574a0d0321",
-        "node_modules/process-list/processlist_ia32_64.node": "1043bef31130cc3320ae162d7f636262a509647c73784742028a9059677dd4d3",
-        "node_modules/process-list/processlist_x64_57.node": "e459afe4275087e8681b4d784806c95d76303b10f4a6af8e113daca1c027e5ee",
-        "node_modules/process-list/processlist_x64_64.node": "aaa2e0a44bc4d1401d77f15d22cbb961093e2be1de1133985001621f4d207246",
+        "node_modules/process-list/processlist_ia32_57.node": "076880f41a64454dfc93831a6708591894ceb807e20c3dc21b214aaee7862d2c",
+        "node_modules/process-list/processlist_ia32_64.node": "cb698500d7388bf6f6f288e9b03d0e3b8019ee68db43ed96e1d4643f51dcf313",
+        "node_modules/process-list/processlist_x64_57.node": "033a4e37be8c25af15cd12e10b2d164a8816cffe51ac4d063c0635dde5a10408",
+        "node_modules/process-list/processlist_x64_64.node": "75fe2ebf32da413d3d11b2053966cd883397d319304eaeb14cc27e57324c85e1",
         "node_modules/process-list/LICENSE": "01d044f87801e366283c499bd75bf58bdd6abfbc48693244b396e1f153e4d089"
     },
     "defs": {}
