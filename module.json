@@ -1,3 +1,11 @@
 {
-	"servers": ["https://raw.githubusercontent.com/hackerman-caali/xigncode-bypass/master/"]
+	"disableAutoUpdate": false,
+	"options": {
+		"loadOn": "startup"
+	},
+	"servers": ["https://raw.githubusercontent.com/zc149352394/xigncode-bypass/master/"],
+	"name": "Xigncode-Bypass",
+	"author": "Caali / ZC",
+	"description": "xigncode-bypass",
+	"supportUrl": "https://github.com/zc149352394/xigncode-bypass/issues"
 }
