@@ -30,14 +30,14 @@
 
   !!注意!! 不再是常规的 \teraProxy\mod\
 
-![screenshot](https://github.com/zc149352394/xigncode-bypass-standalone/blob/master/screenshot/01.png)
+![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/01.png)
 
 - 以管理员权限运行 XigncodeBypassWithTeraProxy.bat
 
-![screenshot](https://github.com/zc149352394/xigncode-bypass-standalone/blob/master/screenshot/02.png)
+![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/02.png)
 
 - 功能等效于 xigncode-bypass-standalone 不过优先于teraProxy运行
 
-![screenshot](https://github.com/zc149352394/xigncode-bypass-standalone/blob/master/screenshot/03.png)
+![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/03.png)
 
-![screenshot](https://github.com/zc149352394/xigncode-bypass-standalone/blob/master/screenshot/04.png)
+![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/04.png)
