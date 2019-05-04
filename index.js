@@ -66,7 +66,6 @@ for (let i=0; i < StartupFilePath.length; i++) {
         module.exports = require(StartupFilePath[i]);
         return;
     }
-    
 }
 
 console.log(`注意: TeraProxy版本 不支持 xigncode-bypass!!`);
