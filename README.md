@@ -24,6 +24,10 @@
 
 # 安装说明
 
+- 建议删除客户端 \TERA\Binaries\XIGNCODE 中垃圾文件避免自动上传, 仅需保留以下4个文件即可
+
+  [x3.xem] [xcorona.xem] [xcorona_x64.xem] [xnina.xem]
+
 - 将整个库 存放到你的 \teraProxy\目录下
 
   !!注意!! 不再是常规的 \teraProxy\mod\
@@ -32,11 +36,13 @@
 
 ![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/01.png)
 
+- (旧的C版和最新P版 依旧是先打开登录器 再)
+
 - 以管理员权限运行 XigncodeBypassWithTeraProxy.bat
 
 ![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/02.png)
 
-- 功能等效于 xigncode-bypass-standalone 不过优先于teraProxy运行
+- 功能等效于 xigncode-bypass-standalone 且附带启动teraProxy 并优先执行
 
 ![screenshot](https://github.com/zc149352394/xigncode-bypass/blob/master/screenshot/03.png)
 
